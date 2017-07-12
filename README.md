@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-###Stack
+### Stack
 Vue2.0 + Vuex + Vue-Router + ES6 + Fontawesome
 ## Build Setup
 
