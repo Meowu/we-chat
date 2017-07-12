@@ -12,7 +12,7 @@
       <router-view></router-view>
     </div>
     <div id="main">
-      <!-- 根据值来决定渲染哪个页面 只需监听函数把名字作为参数commit即可 -->
+      <!-- 根据值来决定渲染哪个页面 只需监听函数把名字作为参数传给commit即可 -->
       <chat v-if="selectTab === 'session'"></chat>
       <article-detail v-else-if="selectTab === 'official'"></article-detail>
       <profile v-else></profile>

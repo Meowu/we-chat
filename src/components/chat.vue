@@ -101,6 +101,7 @@ h3{
 }
 p.send-time{
   text-align: center;
+  font-size: 12px;
   padding: 10px 0;
   color: #b5b5b5;
 }
