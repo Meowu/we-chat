@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+###Stack
+Vue2.0 + Vuex + Vue-Router + ES6 + fontawesome
+
 ## Build Setup
 
 ``` bash
