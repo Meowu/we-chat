@@ -3,7 +3,11 @@
 > A Vue.js project
 
 ### Stack
-Vue2.0 + Vuex + Vue-Router + ES6 + Fontawesome
+Vue2.0 + Vuex + Vue-Router + ES6 + webpack + Fontawesome
+
+### Online Site
+https://awesome-manager.firebaseapp.com/
+
 ## Build Setup
 
 ``` bash
